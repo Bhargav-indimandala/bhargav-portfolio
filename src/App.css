@@ -1,0 +1,10 @@
+nav {
+  background: #0b0d12;
+  color: white;
+  padding: 1rem;
+}
+ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
