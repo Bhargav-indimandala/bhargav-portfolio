@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bhargav-portfolio/static/css/main.c164ef7b.css",
+    "main.js": "/bhargav-portfolio/static/js/main.1f03f204.js",
+    "index.html": "/bhargav-portfolio/index.html",
+    "main.c164ef7b.css.map": "/bhargav-portfolio/static/css/main.c164ef7b.css.map",
+    "main.1f03f204.js.map": "/bhargav-portfolio/static/js/main.1f03f204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c164ef7b.css",
+    "static/js/main.1f03f204.js"
+  ]
+}
