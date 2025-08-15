@@ -1,7 +1,9 @@
-export default function Navbar() {
+import React from "react";
+
+function Navbar() {
   return (
-    <nav>
-      <h1>Bhargav Indimandala</h1>
+    <nav className="navbar">
+      <h2>Bhargav Indimandala</h2>
       <ul>
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
@@ -11,3 +13,5 @@ export default function Navbar() {
     </nav>
   );
 }
+
+export default Navbar;
